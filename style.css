@@ -1,0 +1,68 @@
+body{
+    background-color: gray;
+    margin: 0;
+}
+
+.encabezado{
+    background: white;
+    text-align: center;
+    padding: 15px;
+    border-radius: 30px;
+    
+}
+
+.igfeed{
+    margin: auto;
+    width: 700px;
+    
+
+}
+
+.divfoto, .divfoto2{
+   background-color: purple;
+   border-radius: 15px;
+   
+}
+
+.encabezadofoto, .encabezadofoto2{
+    padding: 10px;
+}
+
+.myfirsphoto{
+    float: left;
+}
+
+.miprimerafoto, .misegundafoto{
+    text-align: left;
+    font-weight:bold ;
+}
+
+.fecha, .fecha2{
+    float:right;
+}
+
+.textofecha, .textofecha2{
+    font-weight: bold;
+    color: gray;
+}
+
+.foto img{
+    width: 100%;
+
+}
+
+.foto2 img{
+    width:100%
+
+}
+
+.piefoto, .piefoto2{
+    padding:15px;
+}
+
+.textopiefoto, .textopiefoto2{
+    
+    font-weight: bold;
+}
+
+
